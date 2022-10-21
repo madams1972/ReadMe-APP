@@ -21,11 +21,11 @@
   None
   ## Future
   To make this Application a free app that all developers can use
-  ## Future
-  Coming Soon
-  ## Future
-  Coming Soon
-  ## License
+  ## 
+  Site -link: 
+  
+  ## Github Repo:
+https://github.com/madams1972/ReadMe-APP  ## License
   MIT
 # ReadMe-APP
 # ReadMe-APP
